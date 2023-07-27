@@ -1,0 +1,7 @@
+name: ConditionalScoreboards
+version: '${project.version}'
+main: dev.synto.scoreboard.ConditionalScoreboards
+api-version: 1.17
+authors: [Synto]
+description: Conditional Scoreboards
+website: synto.dev
