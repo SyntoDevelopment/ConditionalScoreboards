@@ -1,7 +1,7 @@
 
 # Conditional Scoreboards
 
-This allows you to use Assemble in a way which allows you to use different lines depending on certain conditions. 
+This allows you to use Assemble or any scoreboard api in a way which allows you to use different lines depending on certain conditions. 
 
 
 
